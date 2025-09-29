@@ -35,7 +35,7 @@
 
   <!-- Subtitle -->
   <text x="60" y="170" fill="#cbd5e1" font-size="26" font-weight="500" font-family="Inter, Segoe UI, Roboto, Arial">
-    Research @ Stanford · NYU · ENS Paris-Saclay · UM6P
+    Research @ Stanford · NYU · UM6P · ENS Paris-Saclay · CentraleSupélec
     <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.8s" fill="freeze"/>
   </text>
 
