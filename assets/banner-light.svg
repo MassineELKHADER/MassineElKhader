@@ -15,8 +15,8 @@
     <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
   </defs>
 
-  <!-- background -->
-  <rect width="1200" height="260" rx="18" fill="#F8FAFC"/> <!-- slate-50 -->
+  <!-- background (pure white) -->
+  <rect width="1200" height="260" rx="18" fill="#FFFFFF"/>
   <rect width="1200" height="260" rx="18" fill="url(#glow)" opacity="1"/>
   <rect x="0" y="0" width="1200" height="6" fill="url(#g)"/>
 
@@ -34,7 +34,7 @@
 
   <!-- underline -->
   <g>
-    <rect x="60" y="188" width="1080" height="4" rx="2" fill="#E5E7EB"/> <!-- neutral track -->
+    <rect x="60" y="188" width="1080" height="4" rx="2" fill="#E5E7EB"/>
     <rect x="60" y="188" width="0" height="4" rx="2" fill="url(#g)">
       <animate attributeName="width" values="0;1080" dur="1.2s" begin="0.8s" fill="freeze"/>
     </rect>
