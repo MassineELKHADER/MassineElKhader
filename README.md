@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Massine — AI & Mathematics banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img src="./assets/banner-light.svg" alt="Massine — AI and Mathematics banner" />
+  </picture>
 </p>
 
 ---
