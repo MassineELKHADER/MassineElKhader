@@ -29,7 +29,7 @@
 
   <!-- Name -->
   <text x="60" y="120" fill="white" font-size="56" font-weight="700" font-family="Inter, Segoe UI, Roboto, Arial">
-    Massine - AI & Mathematics
+    Massine - AI and Mathematics
     <animate attributeName="opacity" values="0;1" dur="0.9s" begin="0.2s" fill="freeze"/>
   </text>
 
